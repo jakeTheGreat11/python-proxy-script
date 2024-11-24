@@ -20,7 +20,7 @@ Run the script from the command line with the following syntax:
 python proxy.py [localhost] [localport] [remotehost] [remoteport] [receive_first]
 ```
 
-## **CUSTOMIZATION** Customization
+## **CUSTOMIZATION**
 You can modify the behavior of the proxy by editing the following functions:
 
 - request_handler: Add logic to manipulate client requests.
