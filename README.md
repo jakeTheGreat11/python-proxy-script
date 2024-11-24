@@ -18,6 +18,7 @@ Run the script from the command line with the following syntax:
 
 ```bash
 python proxy.py [localhost] [localport] [remotehost] [remoteport] [receive_first]
+```
 
 ## **CUSTOMIZATION** Customization
 You can modify the behavior of the proxy by editing the following functions:
